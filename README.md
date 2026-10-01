@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Xarnergh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
 
 <!---
 Xarnergh/Xarnergh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
